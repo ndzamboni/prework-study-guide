@@ -6,6 +6,7 @@ for (let x = 0; x < topics.length; x++) {
 
 /*
 if (topic === 'HTML') {
+<<<<<<< HEAD
  console.log("Let's study HTML!");
 } else if (topic === 'CSS') {
  console.log("Let's study CSS!");
